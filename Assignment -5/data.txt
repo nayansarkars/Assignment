@@ -1,0 +1,3 @@
+admin,admin@gmail.com,123456,admin
+a,a@a.c,123456,design
+desizn,sarkarnayan901@gmail.com,123456,user
